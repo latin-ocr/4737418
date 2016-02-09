@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737418_0003.png"; bbox 0 0 2818 3620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 428 369 2313 674">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 428 369 2313 674">
+     <span class='ocr_line' id='line_1_1' title="bbox 428 369 2313 512; baseline 0.002 -29"><span class='ocrx_word' id='word_1_1' title='bbox 428 369 1150 487; x_wconf 83' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1246 375 1798 512; x_wconf 82' lang='lat' dir='ltr'>Parreidt‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 1848 377 1910 490; x_wconf 94' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_4' title='bbox 1915 374 2313 489; x_wconf 85' lang='lat' dir='ltr'>ohann</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 429 558 1004 674; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 429 558 1004 674; x_wconf 83' lang='lat' dir='ltr'>Heinrich</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 424 1127 1987 1430">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 424 1127 1987 1430">
+     <span class='ocr_line' id='line_1_3' title="bbox 426 1127 1987 1243; baseline 0.001 -4"><span class='ocrx_word' id='word_1_6' title='bbox 426 1127 916 1240; x_wconf 90' lang='lat' dir='ltr'><strong>TITLE:</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1014 1128 1202 1241; x_wconf 84' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_8' title='bbox 1249 1127 1629 1243; x_wconf 80' lang='lat' dir='ltr'>lactea</span> <span class='ocrx_word' id='word_1_9' title='bbox 1671 1127 1987 1242; x_wconf 89' lang='lat' dir='ltr'>Livii</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 424 1314 952 1430; baseline 0.002 -1"><span class='ocrx_word' id='word_1_10' title='bbox 424 1314 952 1430; x_wconf 82' lang='lat' dir='ltr'><strong>ubertate</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 422 1872 1439 2030">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 422 1872 1439 2030">
+     <span class='ocr_line' id='line_1_5' title="bbox 422 1872 1439 2030; baseline 0.003 -37"><span class='ocrx_word' id='word_1_11' title='bbox 422 1881 977 1996; x_wconf 82' lang='lat' dir='ltr'>PLACE:</span> <span class='ocrx_word' id='word_1_12' title='bbox 1086 1872 1439 2030; x_wconf 65' lang='grc' dir='ltr'>[ηρ]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 419 2448 1312 2565">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 419 2448 1312 2565">
+     <span class='ocr_line' id='line_1_6' title="bbox 419 2448 1312 2565; baseline 0.003 -4"><span class='ocrx_word' id='word_1_13' title='bbox 419 2449 891 2564; x_wconf 85' lang='lat' dir='ltr'><strong>DATE:</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1005 2448 1312 2565; x_wconf 80' lang='lat'>1746</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2818 3620">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2818 3620">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2818 3620; baseline 0 10"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2818 3620; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
